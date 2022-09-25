@@ -68,3 +68,32 @@ button {
   text-decoration: none;
   /* // color: inherit; */
 }
+
+/* -------------HEADER------------ */
+.header {
+}
+
+.header .container {
+  display: flex;
+  align-items: center;
+}
+.header-logo {
+}
+
+.header-nav {
+}
+.header-list {
+  display: flex;
+  align-items: center;
+  column-gap: 30px;
+}
+
+/* .header-item:not(:last-child) {
+  margin-right: 30px;
+  
+} */
+.header-link {
+  /* padding-right: 30px; */
+
+}
+
